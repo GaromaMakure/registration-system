@@ -68,7 +68,7 @@ public class StudentRegistrationSystem {
         System.out.printf("| Academic year: %-34s|\n", student.academicYear);
         System.out.printf("| Academic Level: %-34s|\n", student.academicLevel);
         System.out.printf("| Semester: %-41s|\n", student.semester);
-        System.out.printf("| Previous Semester GPA: %-27s|\n", student.previousSemesterCGPA);
+        System.out.printf("| Previous Semester CGPA: %-27s|\n", student.previousSemesterCGPA);
         System.out.println("----------------------------------------------------");
         System.out.println("|                    COURSES TO BE TAKEN                   |");
         System.out.println("----------------------------------------------------");
