@@ -78,7 +78,7 @@ public class StudentRegistrationSystem {
             System.out.printf("| %-20s %-15s %-12s |\n", course.courseName, course.courseCode, course.creditHours);
         }
 
-        student.advisorSign("Gemechis Teshite");
+        student.advisorSign("__________________________________");
 
         System.out.println("----------------------------------------------------");
         System.out.println("|                    STUDENT MESSAGE                 |");
